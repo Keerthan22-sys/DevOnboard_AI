@@ -80,7 +80,3 @@ pytest -v
 ├── scripts/          # Seed data, demo prep
 └── docker/           # Ollama & ChromaDB config
 ```
-
-## License
-
-Proprietary — MHP internal project.
