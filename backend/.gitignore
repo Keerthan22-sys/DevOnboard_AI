@@ -1,0 +1,29 @@
+# Core data folders (the likely cause of your 1.4GB size)
+chroma_data/
+uploads/
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (contains secrets/keys)
+.env
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
